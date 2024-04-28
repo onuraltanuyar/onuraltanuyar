@@ -6,7 +6,7 @@
 
 ### Hakim Olduğum Programlama Dilleri / Motorları? (Sırasına Göre)
 
-####   A(+): C++, C#, HTML & CSS, Java, LUA, PHP, Vue.JS, Node.JS, Unity
+####   A(+): C++, C#, HTML & CSS, Java, LUA, PHP, Vue.JS, Node.JS, React.JS, Unity
 ####   B(+): Python, Unreal Engine
 ####   C(+): Visaul Basic, .NET Core 
 
