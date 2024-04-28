@@ -12,7 +12,7 @@
 ####   B(+): Python, Unreal Engine
 ####   C(+): Visaul Basic, .NET Core 
 
-## İletişim (Mail): onuraltanuyar@gmail.com
+## İletişim (Instagram/LinkEdin): onuraltanuyar
 <!--
 **onuraltanuyar/onuraltanuyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
