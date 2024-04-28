@@ -14,7 +14,7 @@
 
 # Stats (İstatistik)
 
-#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onuraltanuyar&show_icons=true&theme=radical)
 
 ## İletişim (Instagram/LinkEdin): onuraltanuyar
 <!--
