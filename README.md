@@ -8,11 +8,28 @@
 
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23)
 
-![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B)
 
-####   A(+): C++, C#, HTML & CSS, Java, LUA, PHP, Vue.JS, Node.JS, React.JS, Unity
-####   B(+): Python, Unreal Engine
-####   C(+): Visaul Basic, .NET Core 
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=JS)
+
+![Static Badge](https://img.shields.io/badge/Node.js-%23000?style=for-the-badge&logo=Node.js)
+
+![Static Badge](https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=React)
+
+![Static Badge](https://img.shields.io/badge/Python-%23000?style=for-the-badge&logo=Python)
+
+![Static Badge](https://img.shields.io/badge/Vue.js-%23000?style=for-the-badge&logo=Vue.js)
+
+![Static Badge](https://img.shields.io/badge/Unity-%230E1128?style=for-the-badge&logo=Unity)
+
+![Static Badge](https://img.shields.io/badge/UnrealEngine-%230E1128?style=for-the-badge&logo=Unreal%20Engine)
+
 
 # Stats (İstatistik)
 
