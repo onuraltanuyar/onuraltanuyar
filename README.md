@@ -6,7 +6,9 @@
 
 ### Hakim Olduğum Programlama Dilleri / Motorları? (Sırasına Göre)
 
-![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=JS)
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23)
+
+![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=JavaScript)
 
 ####   A(+): C++, C#, HTML & CSS, Java, LUA, PHP, Vue.JS, Node.JS, React.JS, Unity
 ####   B(+): Python, Unreal Engine
