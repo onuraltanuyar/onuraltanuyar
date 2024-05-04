@@ -1,5 +1,7 @@
 # Mainersy - Onur Altan Uyar 👋
 
+![mainersy](https://github.com/mainersy/mainersy/assets/168308767/a110e708-2347-42ea-9bf2-e5ee6664352e)
+
 ### Onur Altan Uyar, kısaca kimim?
 
 #### Merhaba ben Onur Altan, çocukluk çağımdan bu yana programlama ile uğraşıyorum. İlk öğrenimime C programlama başladığım zamanlar 2013 yıllarıydı o zamanlar pek fazla bi' bilgi birikimi hatta mantık / algoritma kuramıyordum. Tabii ufak olduğumuz zamanlar bi' yandan okul bi' yandan da buna yönelmeye çalışıyordum. İşin trajikomik tarafı üçüncü parti yazılım ile işe başlamıştım. Her çocuk gibi bende o zamanlar HULK vb. oyunlar oynuyordum. HULK oyununda zıplama üçüncü parti yazılımı yaptığım zamanları hatırlıyorum. O zamanlar iyi bi' bilgisayara sahip olmadığım için GTA San Andreas üzerinde Sanny Builder 3 vb. uzantılar, script yazmaya çalışıyordum başarılı da olmuştum. CLEO Library tarzında bi' sürü proje geliştirmiştim o zamanlar. O zamandan bu zamana script (betik) üzerine programlama ile uğraştığım zamanlar hoşuma gidiyordu. Bir zaman sonra sanırım **2015 yıllarıydı** genel manada kendimizi nasıl geliştirebileceğimiz ile ilgili kitaplar okuyordum hatta internet içerisinde PDF ile ilgili araştırma yapıyordum. Bu arada araştırmayı, sorgulamayı ve geliştirmeyi acayip severim, öyle böyle değil. 2015 yılları arasında artık her şeyi iyice oturtmuştum ve şu anda da FULL Stack Developer çalışıyorum. 
