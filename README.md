@@ -1,4 +1,4 @@
-# Onur Altan Uyar 👋
+# Mainersy - Onur Altan Uyar 👋
 
 ### Onur Altan Uyar, kısaca kimim?
 
