@@ -1,6 +1,6 @@
 # Onur Altan Uyar 👋
 
-![onuraltanuyar]([https://github.com/mainersy/mainersy/assets/168308767/a110e708-2347-42ea-9bf2-e5ee6664352e](https://instagram.fesb4-5.fna.fbcdn.net/v/t51.2885-19/488589981_641453732196308_7394972971216503291_n.jpg?_nc_ht=instagram.fesb4-5.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGPk2r9vUwUIlQ7vpW6YPT7fJLYPcVBYWm8VqXiquuto2xNgTpag5OTS-tqJLtlr1E&_nc_ohc=d_anLmEyULAQ7kNvwGmjPQt&_nc_gid=ZsS3v0OjThfbkmxbOvb5bw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfNVGfTGPUPMa3hqleP3-9ddRTWFShUGobGn0Zh_3UlBUA&oe=6849484E&_nc_sid=7d3ac5))
+![onuraltanuyar]([[https://github.com/mainersy/mainersy/assets/168308767/a110e708-2347-42ea-9bf2-e5ee6664352e](https://instagram.fesb4-5.fna.fbcdn.net/v/t51.2885-19/488589981_641453732196308_7394972971216503291_n.jpg?_nc_ht=instagram.fesb4-5.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGPk2r9vUwUIlQ7vpW6YPT7fJLYPcVBYWm8VqXiquuto2xNgTpag5OTS-tqJLtlr1E&_nc_ohc=d_anLmEyULAQ7kNvwGmjPQt&_nc_gid=ZsS3v0OjThfbkmxbOvb5bw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfNVGfTGPUPMa3hqleP3-9ddRTWFShUGobGn0Zh_3UlBUA&oe=6849484E&_nc_sid=7d3ac5](https://instagram.fesb4-5.fna.fbcdn.net/v/t51.2885-19/488589981_641453732196308_7394972971216503291_n.jpg?_nc_ht=instagram.fesb4-5.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGPk2r9vUwUIlQ7vpW6YPT7fJLYPcVBYWm8VqXiquuto2xNgTpag5OTS-tqJLtlr1E&_nc_ohc=d_anLmEyULAQ7kNvwGmjPQt&_nc_gid=ZsS3v0OjThfbkmxbOvb5bw&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfNVGfTGPUPMa3hqleP3-9ddRTWFShUGobGn0Zh_3UlBUA&oe=6849484E&_nc_sid=7d3ac5)))
 
 ### Onur Altan Uyar, kısaca kimim?
 
